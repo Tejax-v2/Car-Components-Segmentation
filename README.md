@@ -1,6 +1,6 @@
-# Electronics Components Object Detection with YOLOv11
+# Car Components Segmentation with YOLOv11
 
-This repository contains a fine-tuned YOLOv11 model for detecting various electronics components. The model is trained on the ElectroCom61 Dataset and can be used to detect components such as resistors, capacitors, transistors, and more in images.
+This repository contains a fine-tuned YOLOv11 model for segmenting various car components. The model is trained on a Custom Dataset from Roboflow Universe and can be used to detect components such as hood, windows, doors, lights, etc in images.
 
 ## Table of Contents
 - [Overview](#overview)
